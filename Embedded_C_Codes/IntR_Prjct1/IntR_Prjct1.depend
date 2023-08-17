@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1568872262 source:c:\users\public\141649\embedded_c\embedded_code\intr_prjct1\fuse.c
+	<avr/io.h>
+
+1568876882 source:c:\users\public\141649\embedded_c\embedded_code\intr_prjct1\isrfile.c
+	"Intrheader.h"
+
+1568872944 c:\users\public\141649\embedded_c\embedded_code\intr_prjct1\intrheader.h
+	<avr/io.h>
+	<stdint.h>
+	<util/delay.h>
+	<avr/interrupt.h>
+
