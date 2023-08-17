@@ -1,0 +1,18 @@
+
+ANALOGINPUTS: 
+
+Serial No.	 InputId	 Input Name 
+1 		07 		Analog_input1
+2 		14 		Analog_input2
+3 		21 		Analog_input3
+4 		28 		Analog_input4
+5 		35 		Analog_input5
+
+DIGITALINPUTS: 
+
+Serial No.	 InputId	 Input Name 
+1 		10 		Digital_input1
+2 		20 		Digital_input2
+3 		30 		Digital_input3
+4 		40 		Digital_input4
+5 		50 		Digital_input5
