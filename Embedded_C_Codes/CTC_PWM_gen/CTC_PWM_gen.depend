@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1568981079 source:c:\users\public\141649\embedded_c\embedded_code\ctc_pwm_gen\fuse.c
+	<avr/io.h>
+
+1568981080 source:g:\embedded_c\embedded_code\ctc_pwm_gen\fuse.c
+	<avr/io.h>
+
+1568989664 source:g:\embedded_c\embedded_code\ctc_pwm_gen\main.c
+	"CPWMheader.h"
+
+1568981240 g:\embedded_c\embedded_code\ctc_pwm_gen\cpwmheader.h
+	<avr/io.h>
+	<stdint.h>
+	<avr/interrupt.h>
+
+1568981080 source:g:\embedded_c\ctc_pwm_gen\fuse.c
+	<avr/io.h>
+

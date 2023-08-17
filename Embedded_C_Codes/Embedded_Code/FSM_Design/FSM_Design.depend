@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1568968893 source:c:\users\public\141649\embedded_c\embedded_code\fsm_design\delayfunc.c
+	"FSMHeader.h"
+
+1568980635 c:\users\public\141649\embedded_c\embedded_code\fsm_design\fsmheader.h
+	<avr/io.h>
+
+1568950097 source:c:\users\public\141649\embedded_c\embedded_code\fsm_design\fuse.c
+	<avr/io.h>
+
+1568980633 source:c:\users\public\141649\embedded_c\embedded_code\fsm_design\main.c
+	"FSMHeader.h"
+
+1568971356 source:c:\users\public\141649\embedded_c\embedded_code\fsm_design\main1.c
+	"FSMHeader.h"
+
+1568980631 source:c:\users\public\141649\embedded_c\embedded_code\fsm_design\state_machines.c
+	"FSMHeader.h"
+	"StateHeader.h"
+
+1568980600 c:\users\public\141649\embedded_c\embedded_code\fsm_design\stateheader.h
+	<stdint.h>
+	<avr/interrupt.h>
+

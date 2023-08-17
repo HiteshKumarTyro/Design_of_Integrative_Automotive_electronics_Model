@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1568959432 source:c:\users\public\141649\embedded_c\embedded_code\waveform_ctc_timer\fuse.c
+	<avr/io.h>
+
+1568960327 source:c:\users\public\141649\embedded_c\embedded_code\waveform_ctc_timer\main.c
+	"Theader.h"
+
+1568960385 c:\users\public\141649\embedded_c\embedded_code\waveform_ctc_timer\theader.h
+	<avr/io.h>
+	<stdint.h>
+	<avr/interrupt.h>
+
+1568959434 source:g:\embedded_c\embedded_code\waveform_ctc_timer\fuse.c
+	<avr/io.h>
+
+1569004791 source:g:\embedded_c\embedded_code\waveform_ctc_timer\main.c
+	"Theader.h"
+
+1568961724 g:\embedded_c\embedded_code\waveform_ctc_timer\theader.h
+	<avr/io.h>
+	<stdint.h>
+	<avr/interrupt.h>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1569003682 source:g:\embedded_c\fast_pwm_exp\fuse.c
+	<avr/io.h>
+
+1569005750 source:g:\embedded_c\fast_pwm_exp\main.c
+	"fast.h"
+
+1569003738 g:\embedded_c\fast_pwm_exp\fast.h
+	<avr/io.h>
+	<stdint.h>
+	<avr/interrupt.h>
+
